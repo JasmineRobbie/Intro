@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jasmine
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on any project I can learn from :)
+- 📫 How to reach me: jrabie@umich.edu
